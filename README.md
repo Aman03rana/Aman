@@ -1,2 +1,3 @@
 # Aman
-This is my first projecy 
+This is my first project
+
